@@ -1,0 +1,39 @@
+
+.slider-bg1{
+    background-image: url('../img/background-img2.png');
+}
+
+.logo {
+	width: 250px;
+}
+
+.logo img {
+	width: 250px;
+}
+
+.slider-area {
+	margin-top: -100px;
+}
+
+.main-header {
+	box-shadow: none !important;
+}
+
+.main-header .main-menu ul li a {
+	color: #fff;
+	transition: ease-out .2s;
+}
+
+.main-header .main-menu ul li a:hover {
+	opacity: .5;
+	color: #fff;
+}
+
+.header-area .header-bottom {
+	padding-top: 20px;
+    height: 100px;
+}
+
+.header-sticky.sticky-bar {
+	background-color: grey;
+}
